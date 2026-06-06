@@ -1,1 +1,1 @@
-# Customer-Segmentation
+# Customer-Segmentation -This is the dataset of 200 customers of a mall where we need to find the target audience so that the sense can be given to marketing team and plan the strategy accordingly. We have some basic data about your customers like Customer ID, age, gender, annual income and spending score. Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
