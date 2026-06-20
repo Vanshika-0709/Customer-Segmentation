@@ -4,7 +4,7 @@
 
 This project segments customers based on their purchasing behavior using RFM (Recency, Frequency, Monetary) analysis and K-Means clustering. The goal is to identify distinct customer groups and provide business insights for targeted marketing strategies.
 
-#Problem Statement
+##Problem Statement
 
 Businesses often treat all customers similarly, leading to ineffective marketing campaigns. This project aims to identify customer segments based on transaction history and spending patterns.
 
@@ -72,28 +72,28 @@ Created RFM features:
 * Consistent spending
 * Active customers
 
-Potential Loyalists
+### Potential Loyalists
 
 * Moderate spending
 * Can be converted into loyal customers
 
- At-Risk Customers
+ ##At-Risk Customers
 
 * Low spending
 * Inactive for a long period
 * Require retention campaigns
 
-Business Recommendations
+##Business Recommendations
 
 * Reward VIP customers with exclusive offers.
 * Provide loyalty benefits to regular customers.
 * Offer personalized promotions to potential loyalists.
 * Run win-back campaigns for at-risk customers.
 
-Results
+##Results
 
 Successfully segmented 4,322 customers into meaningful groups using RFM analysis and K-Means clustering, enabling data-driven marketing and customer retention strategies.
 
-Author
+##Author
 
 Vanshika Vyas
